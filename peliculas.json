@@ -1,0 +1,102 @@
+[
+    {
+      "titulo": "CAPTAIN AMERICA: THE FIRST AVENGER (2011)",
+      "calificacion": "8",
+      "director": "Joe Johnston",
+      "actores": "Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones",
+      "fecha": "July 22, 2011",
+      "duracion": "2h 4m",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu1.jpg?raw=true",
+      "descripcion": "It is 1941 and the world is in the throes of war. Steve Rogers (Chris Evans) wants to do his..."
+    },
+    {
+      "titulo": "CAPTAIN MARVEL (2019)",
+      "calificacion": "7.9",
+      "director": "Anna Boden, Ryan Fleck",
+      "actores": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou",
+      "fecha": "March 8, 2019",
+      "duracion": "2h 4min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu2.jpg?raw=true",
+      "descripcion": "Captain Marvel is an extraterrestrial Kree warrior who finds herself caught in the middle of an intergalactic battle between her..."
+    },
+    {
+      "titulo": "IRON MAN (2008)",
+      "calificacion": "9.4",
+      "director": "Jon Favreau",
+      "actores": "Robert Downey Jr., Terrence Howard, Gwyneth Paltrow, Jeff Bridges",
+      "fecha": "May 2, 2008",
+      "duracion": "2h 6min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu3.jpg?raw=true",
+      "descripcion": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him..."
+    },
+    {
+      "titulo": "IRON MAN 2 (2010)",
+      "calificacion": "7.1",
+      "director": "Jon Favreau",
+      "actores": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson",
+      "fecha": "May 7, 2010",
+      "duracion": "2h 4min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu4.jpg?raw=true",
+      "descripcion": "With the world now aware that he is Iron Man, billionaire inventor Tony Stark (Robert Downey Jr.) faces pressure from..."
+    },
+    {
+      "titulo": "THE INCREDIBLE HULK (2008)",
+      "calificacion": "6.7",
+      "director": "Louis Leterrier",
+      "actores": "Ed Norton, Liv Tyler, Tim Roth, William Hurt",
+      "fecha": "June 13, 2008",
+      "duracion": "1h 52min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu5.jpg?raw=true",
+      "descripcion": "Scientist Bruce Banner (Edward Norton) desperately seeks a cure for the gamma radiation that contaminated his cells and turned him..."
+    },
+    {
+      "titulo": "THOR (2011)",
+      "calificacion": "7.7",
+      "director": "Kenneth Branagh",
+      "actores": "Chris Hemsworth, Natalie Portman, Anthony Hopkins, Tom Hiddleston",
+      "fecha": "May 6, 2011",
+      "duracion": "1h 53min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu6.jpg?raw=true",
+      "descripcion": "As the son of Odin (Anthony Hopkins), king of the Norse gods, Thor (Chris Hemsworth) will soon inherit the throne..."
+    },
+    {
+      "titulo": "MARVEL'S THE AVENGERS (2012)",
+      "calificacion": "9.1",
+      "director": "Joss Whedon",
+      "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "fecha": "May 4, 2012",
+      "duracion": "2h 23min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu7.jpg?raw=true",
+      "descripcion": "When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract,..."
+    },
+    {
+      "titulo": "THOR: THE DARK WORLD (2013)",
+      "calificacion": "6.6",
+      "director": "Alan Taylor",
+      "actores": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgård",
+      "fecha": "November 8, 2013",
+      "duracion": "1h 51m",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu8.jpg?raw=true",
+      "descripcion": "In ancient times, the gods of Asgard fought and won a war against an evil race known as the Dark..."
+    },
+    {
+      "titulo": "IRON MAN 3 (2013)",
+      "calificacion": "7.9",
+      "director": "Shane Black",
+      "actores": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+      "fecha": "1 May 2015",
+      "duracion": "2h 10min",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu9.jpg?raw=true",
+      "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+      "titulo": "CAPTAIN AMERICA: THE WINTER SOLDIER (2014)",
+      "calificacion": "9.0",
+      "director": "Anthony Russo, Joe Russo",
+      "actores": "Chris Evans, Scarlett Johansson, Samuel L. Jackson, Sebastian Stan",
+      "fecha": "April 4, 2014",
+      "duracion": "2h 15m",
+      "img": "https://github.com/sebastiancazares/mcu/blob/main/images/mcu10.jpg?raw=true",
+      "descripcion": "After the cataclysmic events in New York with his fellow Avengers, Steve Rogers, aka Captain America (Chris Evans), lives in..."
+    }
+  ]
